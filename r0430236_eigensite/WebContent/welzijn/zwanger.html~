@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="../css/maincss.css" type="text/css" rel="stylesheet" />
+	<link href="../css/slideshow.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" src="js/slideshow.js" ></script>
+	<script type="text/javascript" src="js/jquery.js" ></script>
+	
+	<title>Apotheek van Dijk Homepage</title>
+</head>
+<body lang="nl">
+	<!-- WEBSITEBOX-->
+		<div id="Websitebox">
+				<div id="header">
+				<img src="../images/header.jpg" alt="apotheek" />
+				<h1 id="txtHeader">Apotheek vandijck BVBA Welzijn (Kind) </h1>
+				</div>
+				<div class="menu">
+					<ul>
+                    	<li> <a href="../index.html">Home</a></li>	
+						<li> <a href="../aanbod/aanbodpage.html" >Aanbod</a></li>
+						<li><a href="../ziektes/ziektes.html">Ziektes</a></li>
+						<li><a href="../welzijn/welzijn.html"class="activepage">Welzijn</a></li>
+						<li><a href="../welzijn/wachtdiensten.html">Wachtdiensten</a></li>
+						<li><a href="../nummers/nuttigenummers.html">Nuttige nummers</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				
+				<div class="maincontainer">
+					<div class="txtbox1">
+						<h1>Welzijn.</h1>
+						<h2>Promotie.</h2>
+                        <p>Uit de onderstaande lijst kan je kiezen uit de volgende categoriëen.</p>
+                        <h2 id="top">Categoriëen</h2>
+                        <ul>
+                        	<li><a href="welzijn.html">Baby</a></li>
+                            <li><a href="kind.html">Kind</a></li>
+                            <li><a href="volwassen.html">Volwassenen</a></li>
+                            <li><a href="zwanger.html">Zwangere vrouw</a></li>
+                            <li><a href="50plus.html">50 plussers.</a></li>
+                        </ul>
+						<div class="txtbox2">
+                        <h2>Zwanger</h2>
+                        <p>Eén van de mooiste periodes in je leven. 
+                        Al gaat die wel gepaard met de nodige klachten. Vooral tijdens de eerste maanden: 
+                        vaker plassen, misselijkheid, braken, sneller moe, gevoelige borsten, witverlies, stemmingswisselingen…</p>
+                        <p>Je kan gratis bij ons het zwangerschapspakket verkrijgen</p>
+                         <p></p>
+                        <p>Wat kan je doen om misselijkheid te voorkomen:</p>
+                        <ul>
+                        	<li>Neem eiwitrijk ontbijt</li>
+                        	<li>Eet langzaam.</li>
+                        	<li>verlucht de kamer regelmatig.</li>
+                        	<li>Zorg voor voldoende nachtrust.</li>
+                        	<li>Eet minder maar wel op vakere tijdstippen.</li>
+                        	<li>Drink een beetje bruisend water na het eten.</li>
+                        	<li>Rust even na de maaltijd.</li>
+                       	 	<li>Gebruik gember.<br />Gember is ook verwerkt in een kleine tablet Antimetil, veilig tijdens de zwangerschap.</li>
+                        	<li>Om striemen te voorkomen is er Bio-oil.</li>
+                        
+                        </ul>
+                        <p>Enkele aanbevelingen:</p>
+                        <ul>
+	                        <li>Eet gevarieerd en gezond.</li>
+	                        <li>Eet 4 maaltijden per dag.</li>
+	                        <li>Let op met schaal- of schelpdieren wegens risico op hepatitis.</li>
+	                        <li>Let op met rauw of slecht doorbakken vlees wegens risico op parasieten en toxoplasmose.</li>
+	                        <li>Eet geen kaas met rauwe melk.</li>
+	                        <li>Rook niet en rook ook niet mee anders heeft je kind meer risico op wiegendood, oorontsteking, luchtweginfecties…</li>
+	                        <li>Vermijd alcoholische dranken.</li>                    	
+                        </ul>
+                        
+                        <p>Voor noodzakelijke vitaminen tijdens de zwangerschap zie pagina Vitaminen</p>
+                        
+                        <p>Info kan je terug vinden op: <br /><a href="http://www.kindengezin.be" > www.kindengezin.be</a><br /> <a href="www.zwangerenbevallen.be" >www.zwangerenbevallen.be</a></p>
+                        
+                        
+                       
+                     </div>   <!-- end txtbox2--> 
+                        
+					</div>           			
+				</div> <!-- end maincontainer -->
+				
+				
+				
+		<div class="footer">
+				<p>(c) Silkens Johan </p>
+		</div>
+		</div>
+		
+	
+	<!-- END WEBSITEBOX-->
+
+
+</body>
+</html>

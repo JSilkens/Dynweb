@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="../css/maincss.css" type="text/css" rel="stylesheet" />
+	<link href="../css/slideshow.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" src="js/slideshow.js" ></script>
+	<script type="text/javascript" src="js/jquery.js" ></script>
+	
+	<title>Apotheek van Dijk Homepage</title>
+</head>
+<body lang="nl">
+	<!-- WEBSITEBOX-->
+		<div id="Websitebox">
+				<div id="header">
+				<img src="../images/header.jpg" alt="apotheek" />
+				<h1 id="txtHeader">Apotheek vandijck BVBA ziektes </h1>
+				</div>
+				<div class="menu">
+					<ul>
+                    	<li> <a href="../index.html">Home</a></li>	
+						<li> <a href="../aanbod/aanbodpage.html" >Aanbod</a></li>
+						<li><a href="../ziektes.html"class="activepage">Ziektes</a></li>
+						<li><a href="../welzijn/welzijn.html">Welzijn</a></li>
+						<li><a href="../wahtdiensten/wachtdiensten.html">Wachtdiensten</a></li>
+						<li><a href="../nummers/nuttigenummers.html">Nuttige nummers</a></li>
+						<li><a href="../contact.html">Contact</a></li>
+					</ul>
+				</div>
+				
+				<div class="maincontainer">
+					<div class="txtbox1">
+						<h1 id="top">Ziektes</h1>
+                        <p>Promotietekst hier..</p>
+                        <h2>Categoriëen</h2>
+                        <ul>
+                        	<li><a href="#kanker">Kanker</a></li>
+                            <li><a href="Diabetes.html">Diabetes</a></li>
+                            <li><a href="griep.html">Griep</a></li>
+                            <li><a href="verkoudheid.html">Verkoudheid</a></li>             
+                        </ul>
+						
+                       
+                        
+
+                        
+					</div>
+                    <div class="txtbox2">
+                    <h2 id="kanker">Kanker</h2>
+                        <p>Volgens de WGO kunnen gezonde leefgewoonten het risico op kanker met 40% verminderen.<strong>Dus onze levenswijze beïnvloed het 								                          risico op kanker!</strong>
+					     Op de erfelijkheid en de leeftijd hebben we geen vat maar wel op onze levenswijze!</p>
+                         
+                         <p></p>
+                         <p><strong>Enkele tips:</strong></p>
+                         <ol>
+                         	<li>Geen tabak <a href="http://www.tabakstop.be">www.tabakstop.be </a> en tabakstoplijn 080011100</li>
+                            <li>Beweging nemen minimum 30 minuten per dag, ga te voet of met de fiets…</li>
+                            <li>Optimaal gewicht, buikomtrek tussen je onderste rib en de bovenkant van je heupbeen voor vrouw niet meer dan 80cm en voor man niet meer dan 94cm. Bereken je BMI= gewicht/lengte x lengte Deze moet tussen 18,5 en 24,9 liggen. Zorg dus voor een evenwichtige voeding.</li>
+                            <li>Beperk alcohol.
+(Sommige personen zoals zwangere vrouwen, zieken drinken best helemaal geen alcohol)</li>
+							<li>Bescherm je tegen de zon met een hoed, een bril, kledij en zonnecrème</li>
+                            <li>6)	laat je vaccineren voor 12 tot 18 jarige meisjes bijna gratis tegen      
+        baarmoederhalskanker, via een injectie van 3 opeenvolgende dosissen verspreid over een periode van 6 maanden. <a href="http://www.zorg-en-gezondheid.be">www.zorg-en-gezondheid.be</a></li>
+                  
+                         </ol>
+                         
+                         <p><strong>Opsporingsprogramma's</strong></p>
+                         
+                         <ol>
+                         	<li>Screeningsmammografie (vanaf 50 jaar borstonderzoek)</li>
+                            <li>uitstrijkje</br>vanaf 25 tot en met 64 jaar, zeker bij onregelmatige bloedingen na betrekkingen of buiten de menstruatie</li>
+                            <li>stoelgangonderzoek <br />dikkedarmkanker ontstaat uit poliepen. Dat zijn zwellingen van het slijmvlies die kwaadaardig kunnen worden. Met stoelgangonderzoek kunnen ze in een vroeg stadium worden opgespoord. <a href="http://www.dikkedarmkankeropsoring.be"> www.dikkedarmkankeropsoring.be</a></li>
+                            
+                         </ol>
+                         <p><strong>Nuttige adressen</strong></p>
+                         <ul>
+                         <li>Stichting tegen kanker<br />
+                             Leuvensesteenweg 479<br />
+                             1030 Brussel<br />
+                             027369999<br />
+                             <a href="http://www.kanker.be">www.kanker.be</a><br />
+
+                         </li>
+                         <li>Vlaamse liga tegen kanker<br />
+                             Koningsstraat 217<br />
+                             1210 Brussel<br />
+                             022276969<br />
+                             <a href="http://www.tegenkanker.be">www.tegenkanker.be</a><br />
+
+                         </li>
+                         <li>Kankerfoon 080015801 anoniem en gratis</li>
+                         </ul>
+                         
+                         <p><a href="#top">terug naar boven</a>
+                         
+                    </div>           			
+				</div>
+				
+				
+				
+		<div class="footer">
+				<p>(c) Silkens Johan </p>
+		</div>
+		</div>
+		
+	
+	<!-- END WEBSITEBOX-->
+
+
+</body>
+</html>

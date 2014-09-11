@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="../css/maincss.css" type="text/css" rel="stylesheet" />
+	<link href="../css/slideshow.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" src="js/slideshow.js" ></script>
+	<script type="text/javascript" src="js/jquery.js" ></script>
+	
+	<title>Apotheek van Dijk Homepage</title>
+</head>
+<body lang="nl">
+	<!-- WEBSITEBOX-->
+		<div id="Websitebox">
+				<div id="header">
+				<img src="../images/header.jpg" alt="apotheek" />
+				<h1 id="txtHeader">Apotheek vandijck BVBA Aanbod </h1>
+				</div>
+				<div class="menu">
+					<ul>
+                    	<li> <a href="../index.html">Home</a></li>	
+						<li> <a href="../aanbod/aanbodpage.html" class="activepage">Aanbod</a></li>
+						<li><a href="../ziektes/ziektes.html">Ziektes</a></li>
+						<li><a href="welzijn.html">Welzijn</a></li>
+						<li><a href="wachtdiensten.html">Wachtdiensten</a></li>
+						<li><a href="nuttigenummers.html">Nuttige nummers</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				
+				<div class="maincontainer">
+					<div class="txtbox1">
+						<h1>Aanbod.</h1>
+						<h2>Promotie.</h2>
+                        <p>Promotietekst hier..</p>
+                        <h2 id="top">Categoriëen</h2>
+                        <ul>
+                        	<li><a href="aanbodpage.html">Geneesmiddelen</a></li>
+                            <li><a href="voedingsupplementen.html">Voedingssupplementen</a></li>
+                            <li><a href="vitamienen.html">Vitamienen</a></li>
+                            <li><a href="cosmetica.html">Cosmetica</a></li>
+                            <li><a href="dierenprod.html">Veterinaire producten</a></li>
+                            <li><a href="reisapotheek.html">Reisapotheek</a></li>
+                             
+                        </ul>
+						                                                                  
+					</div> 
+					
+					<div class="txtbox2" >
+						<h1 id="voedingsupplementen">Voedingsupplementen</h1>
+						<h2>Op voorschrift of niet?</h2>	
+						<p></p>
+						<p>nuttig in geval van 
+zwangerschap en borstvoeding
+een bewezen gebrek na bloedcontrole
+langdurig zieken en bejaarden
+sporters`</p>			
+					
+					 
+					 <p>Enkele voorbeelden:</p>
+					 <ul>
+					 		<li>Dit zijn flesjes om te drinken met extracten uit de zaden van de guarana plant, die traditioneel door de amazone indianen als opkikker gebruikt wordt.<br />
+					 		  Ideaal voor Sporters en studenten.<br /><img src="../images/redenergy.jpg" alt="Red Engery" height="300" width="480" /></br></br></li>
+					 		  <p>Enkele tips:</p>
+							<li>Neem een maaltijd rijk aan koolhydraten 2 tot 4uur voor de inspanning</li>
+							<li>Beperk vetrijke produkten</li>
+							<li>Fruit, yoghurt of een licht tussendoortje kan wel.</li>
+							<li>Drink voldoende.</li>
+							<li>Eigenhandige ondertekening én datering.</li>
+							<li>Mogelijkheid om latere uitvoerdatum in te vullen.</li>
+							<li>Ruimte voor apotheker om patiënt- en apotheekgegevens af te drukken</li>
+							
+						
+					 </ul>
+					 
+			
+					 
+					 <p>Indien er terugbetaalde geneesmiddelen zijn voorgeschreven, 
+					 is het voorschrift geldig voor terugbetaling tot het einde van de derde maand na de datum van het voorschrift. 
+					 De arts kan de geldigheid van het voorschrift verlengen door een tweede datum in te vullen, in zone 7. 
+					 Dan blijft het voorschrift geldig tot het einde van de derde maand na deze tweede datum. Opgelet: indien in vak 7 een tweede datum staat,
+					  dan mag dit voorschrift niet vóór die datum worden afgehaald, </p>
+					  
+					  <p>Uitstel van aflevering (UA) :  Het kan voorvallen dat de arts u meerdere geneesmiddelen heeft voorgeschreven op het zelfde briefje en dat u nog voldoende stock in huis heeft van bijv. geneesmiddel X. Wij kunnen u dan een formulier van 'Uitgestelde aflevering' bezorgen voor geneesmiddel X. Dit formulier vervangt uw voorschrift. Dit is een zogenaamd “tegoed briefje”.Het blijft echter slechts even lang geldig als het oorspronkelijke voorschrift. U kunt dan het geneesmiddel X komen halen wanneer u het nodig heeft. Dit formulier geldt enkel voor de terugbetaalde geneesmiddelen.  Voor de niet-terugbetaalde maken we u een 'Memo', dat altijd geldig blijft.. </p>
+					  
+					  <p>Per voorschrift kan de arts van een terugbetaalde specialiteit slechts één verpakking voorschrijven, dus meerdere voorschriften voor meerdere dozen. Voor niet-terugbetaalde kan de arts meerdere verpakkingen op één voorschrift schrijven.
+</p>
+
+						<h2>Geneesmiddel en alcohol</h2>
+       <p>Alcohol kan de werking van geneesmiddelen beïnvloeden.</p>
+       <p></p>
+       <p>Mogelijke gevolgen:</p>
+       <ol>
+         <li>Effect van alcohol wordt versterkt</li>
+								<li>Geneesmiddel is minder werkzaam</li>
+								<li>Geneesmiddel is meer werkzaam</li>
+       </ol>
+       
+       <p>Er bestaat een interessante brochure :
+U kan ze onderstaand ook downloaden.</p>
+
+      <a href="http://www.apotheek.be/sites/default/files/fichiers/medicamentalcool_nl_a5_.pdf" > <img src="../images/brocurealcgeneesmid.jpg" alt="Brocure werking alcohol op geneesmiddelen. Je kan deze ook downloaden" /></a>
+      <p></p>
+      <a href="http://www.apotheek.be/sites/default/files/fichiers/medicamentalcool_nl_a5_.pdf" >http://www.apotheek.be/sites/default/files/fichiers/medicamentalcool_nl_a5_.pdf</a>
+ 
+
+					
+					</div>  <!-- end txtbox2-->         			
+				</div>  <!-- end txtbox1 -->
+				
+				
+				
+		<div class="footer">
+				<p>(c) Silkens Johan </p>
+		</div>
+		</div>
+		
+	
+	<!-- END WEBSITEBOX-->
+
+
+</body>
+</html>

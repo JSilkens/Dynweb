@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="../css/maincss.css" type="text/css" rel="stylesheet" />
+	<link href="../css/slideshow.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" src="js/slideshow.js" ></script>
+	<script type="text/javascript" src="js/jquery.js" ></script>
+	
+	<title>Apotheek van Dijk Homepage</title>
+</head>
+<body lang="nl">
+	<!-- WEBSITEBOX-->
+		<div id="Websitebox">
+				<div id="header">
+				<img src="../images/header.jpg" alt="apotheek" />
+				<h1 id="txtHeader">Apotheek vandijck BVBA Welzijn (Kind) </h1>
+				</div>
+				<div class="menu">
+					<ul>
+                    	<li> <a href="../index.html">Home</a></li>	
+						<li> <a href="../aanbod/aanbodpage.html" >Aanbod</a></li>
+						<li><a href="../ziektes/ziektes.html">Ziektes</a></li>
+						<li><a href="../welzijn/welzijn.html"class="activepage">Welzijn</a></li>
+						<li><a href="../welzijn/wachtdiensten.html">Wachtdiensten</a></li>
+						<li><a href="../nummers/nuttigenummers.html">Nuttige nummers</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				
+				<div class="maincontainer">
+					<div class="txtbox1">
+						<h1>Welzijn.</h1>
+						<h2>Promotie.</h2>
+                        <p>Uit de onderstaande lijst kan je kiezen uit de volgende categoriëen.</p>
+                        <h2 id="top">Categoriëen</h2>
+                        <ul>
+                        	<li><a href="welzijn.html">Baby</a></li>
+                            <li><a href="kind.html">Kind</a></li>
+                            <li><a href="volwassen.html">Volwassenen</a></li>
+                            <li><a href="zwanger.html">Zwangere vrouw</a></li>
+                            <li><a href="50plus.html">50 plussers.</a></li>
+                        </ul>
+						<div class="txtbox2">
+                        <h2>Kind</h2>
+                        <p><strong>Wees voorzichtig en waakzaam als u geneesmiddelen geeft aan kinderen!</strong></p>
+                        <p>Kinderen zijn geen minivolwassenen. Hun vermogen van metabolisme en uitscheiding van geneesmiddelen is nog niet volledig ontwikkeld.
+                         Dit maakt dat geneesmiddelen soms minder goed werken  of minder goed verdragen worden. 
+                         Het is daarom van groot belang dat u uiterst voorzichtig bent, zowel met geneesmiddelen op medisch voorschrift als al de andere vrije medicatie.</p>
+                         <p></p>
+                        <p>Enkele tips</p>
+                        <ul>
+                        <li>Hou geneesmiddelen uit kinderhanden. <strong>Tel antigifcentrum 070 254 245</strong></li>
+                        <li>lichte koorts tot 38° vraagt niet onmiddellijk om een geneesmiddel.
+                        Laat het kind veel drinken, dek het licht toe en spons het af met lauw water. 
+                        Is het kind jonger dan 3 maanden, duurt de koorts langer dan drie dagen contacteer de arts.</li>
+                        <li>Voor hoest  en keel bestaat er lekkere en verzachtende propolis, tijm of vliersiroop</li>
+                        <li> De neus kan je vrijmaken en open houden met een geconcentreerde zoutoplossing.</li>
+                        <li>Bij middenoorontsteking klimmen bacteriën en virussen via een kanaaltje  vanuit de keel naar boven tot in het middenoor. 
+                        Door vochtophoping achter het trommelvlies gaat dit pijnlijk spannen. De arts kan dan het trommelvlies doorboren en buisjes inplanten. 
+                        Bij genezing van de wonden worden deze buisjes vanzelf uitgedreven. Let op dat je niet te langdurig ontsmettende oordruppels gebruikt want dan loop je kans op gehoorverlies. 
+                        Daarom zijn deze oordruppels enkel op voorschrift verkrijgbaar.</li>
+                        <li>Zorg dat je de vaccins niet vergeet. Hierdoor bouwt het kind afweerstoffen op. Soms is hervaccinatie of een rappel nodig. 
+                        Bijvoorbeeld tegen tetanus om de 10 jaar en tegen rode hond bij meisjes van 12 jaar. Difterie, tetanus en kinkhoest zijn aangeraden vanaf 2 maanden. 
+                        Rond de 12de maand komen bof, mazelen, rode hond en meningokok in aanmerking. <a href="http://www.kindengezin.be/img/vacschema.pdf">http://www.kindengezin.be/img/vacschema.pdf</a> </li>
+                        <li>Voor meisjes tussen 10 en 13 jaar is vaccinatie tegen baarmoederhalskanker nodig. 
+                        Het vaccin is terugbetaald tot en met 18 jaar. Het vaccin wordt toegediend in 3 injecties over een periode van 6 maanden</li>
+                        </ul>
+                        
+                       
+                     </div>   <!-- end txtbox2--> 
+                        
+					</div>           			
+				</div> <!-- end maincontainer -->
+				
+				
+				
+		<div class="footer">
+				<p>(c) Silkens Johan </p>
+		</div>
+		</div>
+		
+	
+	<!-- END WEBSITEBOX-->
+
+
+</body>
+</html>

@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*CSS RESET*/
+
+/* DEFAULT CSS SETTINGS FOR WEBSITE */
+body{
+	
+	background-color:#A8A8A8 ;
+	font-family: Arial,sans-serif;
+	margin-top: 0px;
+	
+}
+
+
+ol{
+	font-family:Arial, Helvetica, sans-serif;
+}
+ul{
+	font-family:Arial, Helvetica, sans-serif;
+	padding-bottom:10px;
+}
+li{
+	padding-bottom:10px;
+}
+
+tr{
+}
+td{
+	padding-right:130px;
+	
+}
+	
+	/* EXTENDED SETTINGS DIV CONTAINERS */
+	
+	#Websitebox{
+		
+	 /*border: thick;*/
+		width: 1024px;
+		background-color: #FFF;
+		margin-left: auto;
+		margin-right: auto;
+		
+		
+		
+		
+}
+
+#header{
+		/*background-image:url('../images/header.jpg'); */
+		
+}
+
+#txtHeader{
+	visibility:hidden;
+	
+	font-size: 1px;
+}
+
+.headerimage{
+	visibility:visible;
+}
+
+/*MENU STYLE */
+.menu{
+	font-family: arial;
+	}
+.mobilemenu{
+	visibility:hidden;
+}
+	
+		
+.menu ul{
+	background-color: #053;
+	padding-bottom: 10px;
+	
+				
+}
+.menu li{
+	display: inline;
+	padding-right: 50px;
+	border-right-color: #fff;
+	
+	
+	
+	}
+	.menu a{
+		font-style: normal;
+		color: #fff;
+		padding-left: 5px;
+		padding-left: 5px;
+	    padding-right: 5px;
+		
+		
+}
+/* .menu ul li a:link{
+	background-color: inherit;
+	}*/
+
+
+
+
+.menu ul li a:hover{
+	background-color: #073;
+	padding-bottom: 9px;
+	padding-left: 5px;
+	padding-right: 5px;
+	}
+.activepage{
+	background-color:#590;
+	padding-bottom: 9px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+	
+	/*END MENU STYLE */
+	
+	/* TXTBOXSTYLE STYLE */
+	
+#Websitebox .txtbox1{
+	padding-left: 1cm;
+	
+}
+#Websitebox .txtbox2{
+	padding-left: 1cm;
+	width:800px;
+	
+}
+	/*END TXTBOX STYLE */
+	
+	/*FORM TABLE STYLE */
+	
+#mailform td{
+	padding-right: 500px;
+	}
+
+#formtblStyle {
+	
+}
+
+    
+
+	
+	/*END FORM TABLE STYLE */
+	
+	
+	
+	
+	
+	/* FOOTER STYLE */
+.footer{
+		height: 100px;
+		background-color: #555;
+		width: 1024px;
+		
+		}
+		
+	/*  END FOOTER STYLE */
+	
